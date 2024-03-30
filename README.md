@@ -6,7 +6,8 @@ HTMLをちょっと書く
 <br>
 サーバー管理系
 <br>
-@n3mmy に勝ちました。 
+[@n3mmy](https://github.com/n3mmy)
+に勝ちました。 
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
