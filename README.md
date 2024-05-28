@@ -14,7 +14,7 @@ HTMLをちょっと書く
 <!DOCTYPE html>
 <html lang="en">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=irlshia &show_icons=true&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=irlshia&show_icons=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlshia&theme=material-palenight" />
